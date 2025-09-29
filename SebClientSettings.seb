@@ -1623,7 +1623,7 @@
     <key>urlFilterTrustedContent</key>
     <true />
     <key>useAsymmetricOnlyEncryption</key>
-    <false />
+    <true />
     <key>useTemporaryDownUploadDirectory</key>
     <false />
     <key>whitelistURLFilter</key>
